@@ -88,10 +88,6 @@
     "lsb": {
       "api": "https://apilsbzy1.com/api.php/provide/vod/",
       "name": "老色逼"
-    },
-    "饭太硬": {
-      "api": "https://www.饭太硬.com/tv/api.php/provide/vod/“,
-      "name": "饭太硬"
     }
   }
 }
